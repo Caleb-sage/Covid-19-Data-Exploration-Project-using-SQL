@@ -14,4 +14,5 @@ Among the continents, Asia had the highest number of confirmed cases, followed b
 South America, Oceania, and Africa. 
 The total number of deaths recorded by continent was highest in Europe, followed by North America, Asia, and South America. 
 Vaccinations commenced on December 3, 2020. 
-To visually represent the insights and trends derived from this analysis, I constructed a Power BI dashboard report.
+To visually represent the insights and trends derived from this analysis, I constructed a Power BI dashboard report  
+https://www.novypro.com/project/covid-19-case-analysis
